@@ -1,11 +1,9 @@
 /* -----------------------------------------------
 				CSS Styles Dark
 --------------------------------------------------
-
     Template Name: Bryan - Personal Portfolio Template
     Author: Bryan Aleman Marcia
     Copyright: 2020
-
 --------------------------------------------------
 
 Table of Content
@@ -17,11 +15,10 @@ Table of Content
 	5. About Section
 	6. Resume Section
 	7. Contact Section
-	9. Preloader Css
-	10. Tooltip Css
-	11. Responsible Css
-	12. Animation Css
-
+	8. Preloader Css
+	9. Tooltip Css
+	10. Responsible Css
+	11. Animation Css
 ----------------------------------- */
 
 
@@ -1674,7 +1671,7 @@ blockquote span img {
 
 
 /* ---------------------------------
-		9. Contact Section
+		7. Contact Section
 --------------------------------- */
 
 .contact-form {
@@ -1802,7 +1799,7 @@ blockquote span img {
 
 
 /* ---------------------------------
-		12. Preloader Css
+		8. Preloader Css
 --------------------------------- */
 
 #preloader {
@@ -1884,7 +1881,7 @@ blockquote span img {
 
 
 /* ---------------------------------
-		13. Tooltip Css
+		9. Tooltip Css
 --------------------------------- */
 
 [data-tooltip] {
@@ -1983,7 +1980,7 @@ blockquote span img {
 
 
 /* ---------------------------------
-		14. Responsible Css
+		10. Responsible Css
 --------------------------------- */
 
 @media screen and (max-width: 991px) {
@@ -2181,7 +2178,7 @@ blockquote span img {
 
 
 /* ---------------------------------
-		15. Animation Css
+		11. Animation Css
 --------------------------------- */
 
 
